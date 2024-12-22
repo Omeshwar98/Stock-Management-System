@@ -10,7 +10,6 @@ The Stock Management System is a Java-based application designed to streamline i
 - **Product Management**: Add, update, and delete product details (e.g., name, category, price, and quantity).
 - **Inventory Tracking**: Real-time updates of stock levels.
 - **Purchase and Sales Management**: Record incoming stock from suppliers and outgoing stock through sales.
-- **Notifications**: Alerts for low stock or overstock situations.
 - **Search and Filters**: Quickly find products by name, category, or ID.
 - **Reporting**: Generate reports on stock status, sales, and purchases.
 
@@ -24,12 +23,12 @@ The Stock Management System is a Java-based application designed to streamline i
 ## System Requirements
 - **Java Version**: Java 8 or later
 - **Database**: MySQL 8.0 or later
-- **IDE**: IntelliJ IDEA, Eclipse, or any Java IDE of your choice
+- **IDE**: Apache NetBeans IDE, Eclipse, or any Java IDE of your choice
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/stock-management-system.git
+   https://github.com/Omeshwar98/Stock-Management-System
    ```
 2. Navigate to the project directory:
    ```bash
@@ -55,41 +54,10 @@ The Stock Management System is a Java-based application designed to streamline i
 4. Monitor inventory levels on the dashboard.
 5. Generate reports for analysis.
 
-## Project Structure
-```plaintext
-src/
-├── main/
-│   ├── java/
-│   │   ├── com/
-│   │   │   ├── stockmanagement/
-│   │   │   │   ├── controllers/
-│   │   │   │   ├── models/
-│   │   │   │   ├── views/
-│   │   │   │   ├── services/
-│   │   │   │   └── Main.java
-│   ├── resources/
-│   │   ├── db.properties
-│   │   ├── application.properties
-│   │   └── ...
-├── test/
-│   ├── java/
-│   │   └── com/
-│   │       └── stockmanagement/
-│   │           └── tests/
-└── pom.xml
-```
-
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For questions or support, please contact:  
-**[Your Name]**  
-Email: your.email@example.com  
-GitHub: [your-github-profile](https://github.com/your-github-profile)
-```
 
 Feel free to adjust the sections according to the specific details of your project! Let me know if you’d like to include additional information or refine any part of this draft.
